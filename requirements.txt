@@ -20,7 +20,7 @@ protobuf<4.21.3  # https://github.com/ultralytics/yolov5/issues/8012
 
 # Plotting ------------------------------------
 pandas>=1.1.4
-# seaborn>=0.11.0
+seaborn>=0.11.0
 
 # Export --------------------------------------
 # coremltools>=4.1  # CoreML export
